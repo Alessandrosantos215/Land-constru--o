@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* https://promo.toflowdesign.com.br/construtora-formatos/ */
+
+
+.back{
+    background: url(../img/s1.jpg);
+    height: 619px;
+}
+
+html, body{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+}
+
+.menu{
+    margin-top: 28px;
+    float: right;
+    
+    
+
+}
+
+.clear{
+    clear: both;
+}
+
+
+
+
+.menu ul{
+    list-style: none;
+}
+
+.menu ul li{
+    display: inline-block;
+    color: aliceblue;
+}
+
+
+.menu ul li a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 28px 28px ;
+    font-weight: 200;
+    font-size: 8px;
+    
+    
+}
+.center {
+    color: aliceblue;
+    padding: 250px; /* Espaçamento ao redor do conteúdo */
+    background: rgba(0, 0, 0, 0); /* Fundo semitransparente para destaque */
+    text-align: center; /* Centraliza o texto dentro da div */
+    border-radius: 10px; /* Bordas arredondadas */
+    font-weight: 100;
+}
+
+.center > .h301 {
+    font-weight: 100;
+    font-size: 14px;
+
+}
+
+.center > .descrição1{
+    font-size: 35px;
+    font-weight: 300;
+}
+
+.center > .p01{
+    font-size: 14px;
+    margin-top: 27px;
+}
+.center > .bt01{
+    width: 380px;
+    height: 40px;
+    margin-top: 27px;
+    
+}
+/*final dive 01*/
+
+.d2 {
+    background-color: rgb(255, 255, 255);
+    
+}
+
+
+.d2 > .d2p1{
+    padding-top: 77px;
+    font-size: 14px;
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0);
+
+}
+.d2h1{
+    color: #FF0000;
+    font-weight: 200;
+    text-align: center;
+    padding: 70px 0px;
+
+}
+/*fim d2*/
+
+
+
+
+.d3img{
+    width: 330px;
+    height: 166px;
+   
+
+}
+
+
+.flex{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 100px 100px;
+    
+
+}
+.d3{
+    background: url(/img/white-background.jpg)no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+.d3h1{
+    text-align: center;
+    font-weight: 300;
+    font-size: 20px;
+    background-color: #D9D9D9;
+    padding: 10px;
+    margin-top: -5px;
+}
+
+
+/*fim d3*/
+
+.d4back{
+    background-color: #9D9595;
+}
+.d4img{
+    width: 465px;
+    height: 480px;
+    margin-bottom: 24px;
+}
+
+
+.d4h1{
+    color: #FF0000;
+    font-weight: 300;
+    margin-top: 180px;
+}
+
+.d4p{
+
+    padding: 40px 0px 40px 0px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.d4flex{
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+    padding: 100px 100px;
+}
+
+.d4btn{
+    padding: 10px 15px 10px 15px;
+    background-color: #FF0000;
+    border-radius: 3px ;
+    color: #D9D9D9;
+    border: #D9D9D9;
+    
+}
+
+/*fim div d4*/
+
+.d5{
+    background: url(/img/pavimentacao_e_drenagem.jpg)no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+.d5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 140px 0;
+    
+}
+
+/*fim d5*/
+
+.d5flex{
+    background: #ffffff;
+    align-items: center;
+    text-align: center;
+    padding: 40px 40px;
+    
+    
+}
+
+.d5h1{
+    color: #000000;
+    font-size: 40px;
+    font-weight: 200;
+    padding: 40px 40px;
+
+}
+
+.d5img{
+    width: 250px;
+    height: 150px;
+    padding: 25px 20px 25px 20px;
+
+}
+
+.d6 {
+    display: flex;
+    flex-direction: column; /* Alinha os itens em coluna */
+    width: 45%;
+    color: #ffffff;
+   
+    
+}
+.d6h2{
+    padding: 40px 40px
+
+}
+
+
+
+.dd6{
+    display: flex;
+    background-color: #FF0000;
+}
