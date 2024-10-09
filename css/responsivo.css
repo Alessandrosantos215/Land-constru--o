@@ -23,10 +23,7 @@
         width: 768px;
     }
 
-    .center{
-            
-    }
-
+ 
     .bt7{
         width: 100px;
         height: 50px;
@@ -154,9 +151,7 @@
    
    @media only screen and (max-width: 640px){
 
-    .center{
-            
-    }
+   
 
     .menu{
         display: none;
